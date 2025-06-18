@@ -2,9 +2,9 @@
 
 - 👨‍💼 I'm Juan Pablo Romagnoli, specialist in Social Communication and Ed Tech with extensive experience in the design, development and coordination of educational digital projects. Passionate about using data analytics to optimize teaching and learning processes.
 
-- 🔭 I’m actually working on developing and enhanced my expertise in Bussinees Inteligence and Educational Data Analytics to help institutions and organizations. In a changing and challenging environment,  is crucial to identify the skills that can be developed or improved. Leveraging educational technologies in the pedagogical and training process, with the implementation of better practices such as learning analytics through data integration, with the objective to contribute to the professional growth of their human capital.
+- 🔭 I’m actually working on developing and enhanced my expertise in Bussinees Inteligence and Educational Data Analytics to help institutions and organizations. In a changing and challenging environment,  is crucial to identify the skills that can be developed or improved. Leveraging educational technologies in the pedagogical and training process, the implementation of better practices such as learning analytics through data integration, with the objective of data-driven decision making to contribute to the professional growth of their human capital.
 
-- 📊 I’m currently learning Data Analytics at IT Academy in Barcelon Activa, to get the knowledge and resources to improve my profile in Data Science.
+- 📊 I’m currently learning Data Analytics at IT Academy in Barcelona Activa, to get the knowledge and resources to improve my profile in Data Science.
 
 - 🤝 I’m looking to collaborate on public organizations, private companies and educational institutions with the aims to support the development of core competences for harnessing the power of and making the best use of Learning Analytics in online and blended training projects.
 
