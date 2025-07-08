@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to collaborate on public organizations, private companies and educational institutions with the aims to support the development of core competences for harnessing the power of and making the best use of Learning Analytics in online and blended training projects.
 
-- 📗 I'm fond of reading, and like to immerse in different genres of books, as a way to expand my mind and way of thinking. And one of my favorites is "Siddharta" by the poet and writer Hermann Hesse. In it, he expresses his famous phrase: "The true profession of man is to find the way to himself."
+- 📗 I'm fond of reading, and like to immerse in different literary genres and book themes, as a way to expand my mind and way of thinking. And one of my favorites is "Siddharta" by the poet and writer Hermann Hesse. In it, he expresses his famous phrase: "The true profession of man is to find the way to himself."
   
 - 💬 Ask me about whatever you want to know ... 
   
