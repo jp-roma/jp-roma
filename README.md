@@ -1,20 +1,18 @@
 ## Hello there 👋
 
-- 👨‍💼 I'm Juan Pablo Romagnoli, specialist in Social Communication and Ed Tech with extensive experience in the design, development and coordination of educational digital projects. Passionate about using data analytics to optimize teaching and learning processes.
+## Juan Pablo Romagnoli | Ed Tech & Learning Analytics 
 
-- 🔭 I’m actually working on developing and enhanced my expertise in Bussinees Inteligence and Educational Data Analytics to help institutions and organizations. In a changing and challenging environment,  is crucial to identify the skills that can be developed or improved. Leveraging educational technologies in the pedagogical and training process, the implementation of better practices such as learning analytics through data integration, with the objective of data-driven decision making to contribute to the professional growth of their human capital.
+I'm an Ed Tech specialist with a background in Social Communication, focused on the design and coordination of educational digital projects. My primary interest lies in leveraging **data integration** and **learning analytics** to optimize learning processes and inform data-driven decisions.
 
-- 📊 I’m currently learning Data Analytics at IT Academy in Barcelona Activa, to get the knowledge and resources to improve my profile in Data Science.
+**What I'm doing now:**
+* Developing my skills in **Business Intelligence** and **Educational Data Analytics**.
+* Applying best practices for data-driven decision-making in training and education.
+* Expanding my knowledge of **Data Science** at the IT Academy, Barcelona Activa.
 
-- 🤝 I’m looking to collaborate on public organizations, private companies and educational institutions with the aims to support the development of core competences for harnessing the power of and making the best use of Learning Analytics in online and blended training projects.
+**I'm looking to collaborate on projects related to:**
+* Using **Learning Analytics** in online and blended training.
+* Developing core competencies through educational technology.
+* Data-driven initiatives in public organizations, private companies, and educational institutions.
 
-- 📗 I'm fond of reading, and like to immerse in different literary genres and book themes, as a way to expand my mind and way of thinking. And one of my favorites is "Siddharta" by the poet and writer Hermann Hesse. In it, he expresses his famous phrase: "The true profession of man is to find the way to himself."
-  
-- 💬 Ask me about whatever you want to know ... 
-  
-- 📫 How to reach me: joanp.rom@gmail.com
-
-- 🚲 More about me: If you want to know what I’m doing in my free time, I could say that I try to seize all the possibilities that I had to stay in contact with nature. For example, riding my bike at the mountain, going out for hiking or trekking with friends or doing exercise, like calisthenics or swimming.
-  
-- ⚡ Fun fact: I have been taking Tango lessons for three years, in a way to stay in touch with my culture, and have the opportunity to get to know people with similar interests. 
+**Contact:** joanp.rom@gmail.com
 -->
