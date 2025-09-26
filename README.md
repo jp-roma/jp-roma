@@ -14,5 +14,5 @@ I'm an Ed Tech specialist with a background in Social Communication, focused on 
 * Developing core competencies through educational technology.
 * Data-driven initiatives in public organizations, private companies, and educational institutions.
 
-**Contact:** joanp.rom@gmail.com
+**Contact:** jprom@outlook.com
 -->
