@@ -2,7 +2,7 @@
 
 ## Juan Pablo Romagnoli | Ed Tech & Learning Analytics 
 
-I'm an Ed Tech specialist with a background in Social Communication, focused on the design and coordination of educational digital projects. My primary interest lies in leveraging **data integration** and **learning analytics** to optimize learning processes and inform data-driven decisions.
+I'm an Ed Tech specialist with a background in Social Communication, focused on the design and coordination of educational digital projects. My primary interest lies in leveraging **data integration** and **learning analytics** to optimize learning processes and promote data-driven decisions.
 
 **What I'm doing now:**
 * Developing my skills in **Business Intelligence** and **Educational Data Analytics**.
